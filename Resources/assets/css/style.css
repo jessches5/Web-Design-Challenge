@@ -5,10 +5,6 @@
     font-weight: bold;
 }
 
-.navBL{
-  float: right;
-}
-
 .container-fluid{
     background-color:rgba(201, 204, 207, 0.644);
     position: fixed;
